@@ -1,0 +1,23 @@
+{
+  "hero": [
+    "/placeholder.svg?height=600&width=1200",
+    "/placeholder.svg?height=600&width=1200",
+    "/placeholder.svg?height=600&width=1200",
+    "/placeholder.svg?height=600&width=1200",
+    "/placeholder.svg?height=600&width=1200"
+  ],
+  "about": [
+    "/placeholder.svg?height=400&width=600",
+    "/placeholder.svg?height=400&width=600",
+    "/placeholder.svg?height=400&width=600",
+    "/placeholder.svg?height=400&width=600",
+    "/placeholder.svg?height=400&width=600"
+  ],
+  "gallery": [
+    "/placeholder.svg?height=300&width=400",
+    "/placeholder.svg?height=300&width=400",
+    "/placeholder.svg?height=300&width=400",
+    "/placeholder.svg?height=300&width=400",
+    "/placeholder.svg?height=300&width=400"
+  ]
+}
