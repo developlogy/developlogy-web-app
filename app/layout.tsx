@@ -23,9 +23,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={dmSans.variable}>
       <body className="font-sans">
-        <ThemeProvider>
-          {children}
-        </ThemeProvider>
+        <style>
+          <ThemeProvider>
+            {children}
+          </ThemeProvider>
+        </style>
       </body>
     </html>
   )
